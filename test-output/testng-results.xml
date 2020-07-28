@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51998" started-at="2020-07-07T16:29:29Z" finished-at="2020-07-07T16:30:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51998" started-at="2020-07-07T16:29:29Z" finished-at="2020-07-07T16:30:21Z">
+      <class name="org.read.B">
+        <test-method status="PASS" signature="launch(java.lang.String, java.lang.String)[pri:0, instance:org.read.B@6767c1fc]" name="launch" duration-ms="50803" started-at="2020-07-07T09:29:30Z" data-provider="pro" finished-at="2020-07-07T09:30:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[syed122@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="launch(java.lang.String, java.lang.String)[pri:0, instance:org.read.B@6767c1fc]" name="launch" duration-ms="49516" started-at="2020-07-07T09:29:30Z" data-provider="pro" finished-at="2020-07-07T09:30:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abdul@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12346]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- org.read.B -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
